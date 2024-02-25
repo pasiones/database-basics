@@ -1,0 +1,12 @@
+--t11h2
+--Lam Dat Minh 151395774
+
+a. This will be executed because this does not change the referential integrity of the foreign key manufacturer_id
+b. This will not be executed because the manufacturer_id is not allowed to be NULL
+c. This will be executed because the values added to ice_cream is new 
+d. This will not be executed because ingredient_id is a primary key and changing it will cause problem related to referential integrity
+e. The same as d.
+f. This will be executed because this does affect referential integrity
+g. This will not be executed because manufacturer_id = 2 is referred to in other tables
+h. This will not be executed because this values already existed
+i. This will not be executed

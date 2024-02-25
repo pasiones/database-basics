@@ -1,0 +1,9 @@
+-- h1t11
+-- Lam Dat Minh 151395774
+
+a. FALSE
+b. TRUE
+c. UNKNOWN
+d. TRUE
+e. TRUE
+f. FALSE

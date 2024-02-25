@@ -1,0 +1,8 @@
+a. FALSE
+b. UNKNOWN
+c. TRUE
+d. UNKNOWN
+e. UNKNOWN
+f. FALSE
+g. UNKNOWN
+h. TRUE

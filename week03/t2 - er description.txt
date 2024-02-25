@@ -1,0 +1,13 @@
+Into a database, information about mountains, climbing journeys and hikers taking part in journeys is to be stored. 
+
+Information needed about mountains include mountain ID, name, mountain range, continent and elevation. Both the mountain id and the name of the mountain are unique. 
+
+Information needed about climbing journeys include the journey ID, name, year, physical level, technical level, and the mountain to which the journey is made. Both the journey ID and the name of the journey are unique. Each journey is always made to one mountain, while several journeys can be made to the same mountain.S 
+
+The database may contain information about mountains that have not yet been made a single trip. 
+
+Information needed about hikers include unique ID, first name, surname and date of birth. A hiker takes part in one or more climbing journeys and several hikers can naturally take part in the same climbing journey. 
+
+The database may contain information about climbing journeys for which there are no participant data yet. 
+
+The database needs to determine how each hiker evaluates her/his physical fitness and climbing skills prior to her or his climbing journey and how successful he or she experienced the whole journey.
